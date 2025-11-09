@@ -1,0 +1,59 @@
+{
+  "name": "Weebsource",
+  "subtitle": "The best sideloaded apps.",
+  "description": "All of the best sideloaded apps in one place.",
+  "iconURL": "https://i.imgur.com/URQxftB.png",
+  "website": "https://example.com",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#4185A9",
+  "featuredApps": [],
+  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "apps": [
+    {
+      "name": "Amethyst",
+      "bundleIdentifier": "org.angelauramc.amethyst",
+      "marketplaceID": "",
+      "developerName": "AngelAuraMC",
+      "subtitle": "Java in your pocket",
+      "localizedDescription": "Amethyst is a Minecraft: Java Edition launcher for Android, iOS, and iPadOS, based off of zhuowei's Boardwalk project.\n\nSupports most versions of Minecraft: Java Edition, from the very first beta to the newest snapshots.\nSupports Forge, Fabric, OptiFine, and Quilt for you to customize the experience with supported mods.\nIncludes customizable on-screen controls, keyboard and mouse support, and game controller support.\nOptimized for jailbroken and TrollStore devices to enable better capabilities.\nMicrosoft account and demo mode support for logging into Minecraft.\n...and much more!",
+      "iconURL": "https://i.imgur.com/VbpRIzT.png",
+      "tintColor": "#c23c95",
+      "category": "games",
+      "screenshots": [
+        "https://i.imgur.com/MzF1mZ5.png",
+        "https://i.imgur.com/utQZX3t.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://drive.google.com/file/d/1U0MZ_4sYk5FwZbu8rBzt15GTY7zYvQKq/view?usp=share_link",
+          "size": 150700000,
+          "version": "1.0",
+          "buildVersion": "67.0",
+          "date": "2025-11-10T13:35:00-06:00",
+          "localizedDescription": "Updated things",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Angel Aura Amethyst uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "Angel Aura Amethyst uses the microphone to enable support for voice chat mods."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Amethyst now on Weebsource!",
+      "identifier": "news_yc1m0tjs51",
+      "caption": "",
+      "date": "2025-11-09T13:51",
+      "tintColor": "#4185A9",
+      "notify": false,
+      "url": "",
+      "appID": "org.angelauramc.amethyst"
+    }
+  ]
+}
