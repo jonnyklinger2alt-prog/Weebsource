@@ -4,7 +4,7 @@
   "description": "All of the best sideloaded apps in one place.",
   "iconURL": "https://i.imgur.com/URQxftB.png",
   "website": "https://example.com",
-  "patreonURL": "",
+  "patreonURL": "https://example.com",
   "tintColor": "#4185A9",
   "featuredApps": [
     "org.angelauramc.amethyst"
